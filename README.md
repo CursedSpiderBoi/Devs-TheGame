@@ -1,5 +1,5 @@
 # Devs-TheGame
-This is a experiment. The procedure is very simple, There will be a basic Godot game template. And Its free for all. Anybody can implement anything. Change any file, even change the whole story of the game. Its up to you 
+This is a experiment. The procedure is very simple, There will be a basic Godot v4.3 game template. And Its free for all. Anybody can implement anything. Change any file, even change the whole story of the game. Its up to you 
 
 ## Rules
 - The First Person to raise a PR can set the standards of the game , either it be a 2D or 3D game . And once this is set These are Absolute. And cant be changed.
