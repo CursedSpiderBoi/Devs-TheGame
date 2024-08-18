@@ -5,7 +5,7 @@ This is a experiment. The procedure is very simple, There will be a basic Godot 
 - The First Person to raise a PR can set the standards of the game , either it be a 2D or 3D game . And once this is set These are Absolute. And cant be changed.
 - I will be checking the PRs on weekly basis. And merging them if and only if it doesn't break the game.
 
-### God knows what it will be turned out to
+### God knows what it will be turned into
 - I will be publishing the most stable version of the game on monthly basis
 
 ### The Contributor Notes
